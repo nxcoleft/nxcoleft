@@ -1,7 +1,7 @@
 <!-- BANNER INICIAL SUPERIOR -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ola+eu+sou+Heitor+%5D+%F0%9F%91%8B;Estudante+de+Informática+para+Internet+%F0%9F%91%8B;Desenvolvedor+Web+Front-end+%26+Back-end+%F0%9F%9A%80%22 alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ola+eu+sou+Nicole+%5D+%F0%9F%91%8B;Estudante+de+Informática+para+Internet+%F0%9F%91%8B;Desenvolvedor+Web+Front-end+%26+Back-end+%F0%9F%9A%80%22 alt="Typing SVG"/>
 </a>
 </div>
 <!-- BADGES DE REDES SOCIAIS E CONTATO -->
@@ -85,14 +85,14 @@
       <h3>🌐 Nome do Projeto 01</h3>
       <p>Breve descrição do que o projeto faz, qual problema resolve e qual foi o seu papel no desenvolvimento.</p>
       <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://github.com/SEU-USUARIO-GITHUB/repositorio-1">🔗 Ver Código</a> •
-      <a href="https://SEU-USUARIO-GITHUB.github.io/repositorio-1">🚀 Acessar Demo</a>
+      <a href="https://github.com/nxcoleft/repositorio-1">🔗 Ver Código</a> •
+      <a href="https://nxcoleft.github.io/repositorio-1">🚀 Acessar Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Nome do Projeto 02</h3>
       <p>Breve descrição do sistema web, landing page ou aplicação interativa criada em sala de aula ou projeto integrador.</p>
       <p><strong>Tecnologias:</strong> React, Tailwind, API REST</p>
-      <a href="https://github.com/SEU-USUARIO-GITHUB/repositorio-2">🔗 Ver Código</a> •
+      <a href="https://github.com/nxcoleft/repositorio-2">🔗 Ver Código</a> •
       <a href="https://seu-projeto-2.vercel.app">🚀 Acessar Demo</a>
     </td>
   </tr>
@@ -103,21 +103,21 @@
 <h2>📊 Estatísticas no GitHub</h2>
  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br%22/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br%22/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nxcoleft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br%22/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxcoleft&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br%22/>
 </div>
  
 <br/>
  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-GITHUB&theme=tokyonight&locale=pt_BR%22 alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxcoleft&theme=tokyonight&locale=pt_BR%22 alt="GitHub Streak" />
 </div>
  
 <br/>
  
 <!-- GRÁFICO DE CONTRIBUIÇÃO ANIMADO (ACTIVITY GRAPH) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-GITHUB&theme=tokyo-night&hide_border=true&area=true%22 width="100%" alt="Gráfico de Atividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nxcoleft&theme=tokyo-night&hide_border=true&area=true%22 width="100%" alt="Gráfico de Atividades" />
 </div>
  
 <br/>
